@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pfjndev
+- 👋 Hi, I’m Pedro Nunes
 - 👀 I’m interested in Harware/Software Development
 - 🌱 I’m currently learning a lot of different things
 - 📫 How to reach me :	pfjndev@gmail.com
